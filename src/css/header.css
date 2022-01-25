@@ -1,0 +1,21 @@
+.header{
+  position: fixed;
+  top: 0em;
+  left: 0em;
+  right: 0em;
+  z-index: 1;
+ color: #69D84F;
+  padding: 1rem;
+}
+.header-item{
+  text-align: center;
+  margin: 2rem;
+ 
+}
+.header-logo{
+  width: 3rem;
+  height: 3rem;
+}
+.search-box{
+  width: 30%;
+}

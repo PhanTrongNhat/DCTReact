@@ -1,0 +1,31 @@
+.form-payment{
+    text-align: center;
+    
+    
+}
+.form-payment .button-payment{
+    background-color: #69D84F;
+    margin-top: 3rem;
+    width: 27rem;
+    border-radius: 5px;
+    border: 1px solid gray;
+   
+  
+
+}
+.form-payment .payment-input{
+
+ text-align: start;
+
+  
+}
+.form-payment .payment-label{
+
+    text-align: start;
+    width: 27rem;
+    padding-left: 2rem;
+  }
+.form-payment .payment-input-group{
+   
+    justify-items: center;
+}

@@ -1,0 +1,47 @@
+.login {
+  /* border: 1px solid black; */
+  padding: 2rem;
+  border-radius: 5px;
+  box-shadow: black 5px;
+  background-color: white;
+}
+.login .login-forgotPassword {
+  text-align: end;
+  color: gray;
+}
+.login .login-logo{
+    text-align: center;
+}
+  .image_Shipper {
+   background-image: linear-gradient(green, white);
+ position: relative;
+  }
+  .image_Shipper_img{
+    width: 60%;
+    position:absolute;
+    bottom: 0;
+    right: 20%;
+   
+  }
+    .image_Shipper_img_login{
+    width: 50%;
+    position:absolute;
+    bottom: 0;
+   left: 20%;
+   
+  }
+  .input-feedback{
+    width: 350px;
+    height: 150px;
+  }
+  .Quan_Ly_Tai_Khoan h3{
+ width: 200px;
+  }
+
+    .Quan_Ly_Tai_Khoan div{
+ display: flex;
+  }
+.profile-buttonEdit{
+  margin-bottom: 2rem;
+  width: 100%;
+}
